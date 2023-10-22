@@ -5,6 +5,7 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 2
+display_categories: [faculty, postdoc, phd, master, undergraduate]
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
