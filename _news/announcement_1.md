@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[查看PDF](/assets/pdf/PI-BCI.pdf)
