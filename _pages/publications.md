@@ -9,6 +9,8 @@ nav_order: 3
 <!-- _pages/publications.md -->
 <div class="publications">
 
+[查看我的PDF](/assets/example.pdf){:target="_blank"}
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
