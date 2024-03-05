@@ -9,7 +9,7 @@ nav_order: 3
 <!-- _pages/publications.md -->
 <div class="publications">
 
-[查看我的PDF](/assets/pdf/PI-BCI.pdf){:target="_blank"}
+[PI-BCI document](/assets/pdf/PI-BCI.pdf)
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
